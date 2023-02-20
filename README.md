@@ -4,7 +4,8 @@
 
 This repository constains a Python implementation of the paper, titled "Effects of Noise on RASTA-PLP and MFCC based Bangla ASR Using CNN", which is published in 2020 IEEE Region 10 Symposium (TENSYMP).
 
-![image](https://user-images.githubusercontent.com/68147248/220187657-1037f31a-aaa4-4ee9-8841-d384be90ec88.png)
+![image](https://user-images.githubusercontent.com/68147248/220188821-ffa54c66-75f0-443a-9935-437161e79278.png)
+
 
 ![image](https://user-images.githubusercontent.com/68147248/220188699-2db1fbe8-e9d4-4a95-9802-cc1a5b08cb40.png)
 
