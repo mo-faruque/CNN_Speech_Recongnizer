@@ -8,7 +8,9 @@ This repository constains a Python implementation of the paper, titled "Effects 
                                                 Fig: CNN Architecture
 
 ![image](https://user-images.githubusercontent.com/68147248/220188991-538af8b5-5f45-4630-9c64-973d03c1194e.png)
+
                                                 Fig: Methodology
+
 
 
 If you find this project useful to you, please cite our work: 10.1109/TENSYMP50017.2020.9231034
