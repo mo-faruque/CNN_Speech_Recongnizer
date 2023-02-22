@@ -16,7 +16,7 @@ This repository constains a Python implementation of the paper, titled "Effects 
 
 
 
-If you find this project useful to you, please cite our work: 10.1109/TENSYMP50017.2020.9231034
+If you find this project useful to you, please cite our work: https://ieeexplore.ieee.org/document/9231034
 
 @INPROCEEDINGS{9231034,
   author={Maruf, Md. Raffael and Faruque, Md. Omar and Mahmood, Salman and Nelima, Nazmun Nahar and Muhtasim, Md. Golam and Pervez, Md.Jahedul Alam},
